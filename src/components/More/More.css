@@ -1,0 +1,15 @@
+.more-button{
+    margin-right: 10px;
+}
+.more-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.more-div-first{
+    display: flex;
+    gap: 50px;
+}
